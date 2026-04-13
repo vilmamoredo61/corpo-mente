@@ -68,3 +68,8 @@
 
 - [x] Checkout 680€: activar parcelamento em 5x (136€/mês) no Stripe
 - [x] Checkout 480€: desactivar parcelamento, apenas pagamento à vista
+
+## Actualização Duração dos Programas
+
+- [x] Substituir "8 a 10 semanas" por "12 semanas" em Home.tsx
+- [x] Substituir "8 a 10 semanas" por "12 semanas" em products.ts

@@ -466,7 +466,7 @@ function Programa() {
             </h2>
             <GoldLine />
             <p style={{ marginTop: "0.75rem", fontSize: "0.75rem", letterSpacing: "0.3em", textTransform: "uppercase", color: S.gray }}>
-              Duração de 8 a 10 semanas
+              Duração de 12 semanas
             </p>
           </div>
           <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(180px, 1fr))", gap: "1.25rem" }}>
@@ -508,7 +508,7 @@ function Preco() {
               <div>
                 <p style={{ fontSize: "0.7rem", letterSpacing: "0.3em", textTransform: "uppercase", color: S.gray, marginBottom: "1.5rem" }}>Programa Completo</p>
                 <p style={{ fontFamily: "'Playfair Display', serif", fontSize: "3.5rem", fontWeight: 700, color: S.dark, lineHeight: 1 }}>680<span style={{ fontSize: "1.5rem" }}>€</span></p>
-                <p style={{ fontSize: "0.85rem", fontWeight: 300, color: S.gray, margin: "0.75rem 0 0.5rem" }}>8 a 10 semanas de acompanhamento individual</p>
+                <p style={{ fontSize: "0.85rem", fontWeight: 300, color: S.gray, margin: "0.75rem 0 0.5rem" }}>12 semanas de acompanhamento individual</p>
                 <p style={{ fontSize: "0.78rem", color: S.gold, marginBottom: "2rem" }}>ou até 5x de 136€</p>
               </div>
               <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
@@ -533,7 +533,7 @@ function Preco() {
               <div>
                 <p style={{ fontSize: "0.7rem", letterSpacing: "0.3em", textTransform: "uppercase", color: S.goldLight, marginBottom: "1.5rem" }}>Condição Especial</p>
                 <p style={{ fontFamily: "'Playfair Display', serif", fontSize: "3.5rem", fontWeight: 700, color: S.white, lineHeight: 1 }}>480<span style={{ fontSize: "1.5rem" }}>€</span></p>
-                <p style={{ fontSize: "0.85rem", fontWeight: 300, color: S.goldLight, margin: "0.75rem 0 0.5rem" }}>8 a 10 semanas de acompanhamento individual</p>
+                <p style={{ fontSize: "0.85rem", fontWeight: 300, color: S.goldLight, margin: "0.75rem 0 0.5rem" }}>12 semanas de acompanhamento individual</p>
                 <p style={{ fontSize: "0.78rem", color: S.blushMid, marginBottom: "2rem" }}>Pagamento à vista</p>
               </div>
               <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
