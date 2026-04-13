@@ -29,3 +29,15 @@
 ## Correção de Bug
 
 - [x] Corrigir botão "Agendar consulta gratuita" no Hero que não está a funcionar
+
+## Correcções SEO
+
+- [x] Corrigir título da página (30-60 caracteres)
+- [x] Adicionar meta description (50-160 caracteres)
+- [x] Adicionar meta keywords com palavras-chave relevantes
+- [x] Adicionar meta Open Graph para partilha em redes sociais
+
+## SEO — Palavras-chave de Conversão
+
+- [x] Actualizar meta keywords com termos de intenção de compra
+- [x] Adicionar dados estruturados JSON-LD (Schema.org) para profissional de saúde
