@@ -116,7 +116,7 @@ function BtnGold({ href, onClick, children, full = false }: { href?: string; onC
 /* Botão contorno */
 function BtnOutline({ href, children, full = false }: { href: string; children: React.ReactNode; full?: boolean }) {
   return (
-    <a href={href} style={{
+    <a href={href} target="_blank" rel="noopener noreferrer" style={{
       display: "inline-block",
       background: "transparent", color: S.dark,
       padding: "0.9rem 2.25rem",

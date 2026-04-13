@@ -25,3 +25,7 @@
 
 - [x] Extrair foto do DOCX e fazer upload para CDN
 - [x] Substituir placeholder circular pela foto real na secção Sobre
+
+## Correção de Bug
+
+- [x] Corrigir botão "Agendar consulta gratuita" no Hero que não está a funcionar
