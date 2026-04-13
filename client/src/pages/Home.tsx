@@ -22,7 +22,7 @@ const S = {
   gold: "#C9A84C",
   goldLight: "#E8D5A3",
   dark: "#3A3028",
-  gray: "#8A7E72",
+  gray: "#2E2318",
   white: "#FFFFFF",
   grayLight: "#F4F4F4",
 };

@@ -52,3 +52,8 @@
 - [x] Cartão 480€: remover "Vagas Limitadas"
 - [x] Cartão 480€: remover parcelamento 5x (96€/mês)
 - [x] Cartão 480€: indicar pagamento à vista
+
+## Correcção de Cores — Navbar e Textos
+
+- [x] Escurecer links da navbar (Áreas, Método, Programa, Investimento, Sobre, Contacto)
+- [x] Escurecer todos os textos com tom claro/desbotado na página inicial
