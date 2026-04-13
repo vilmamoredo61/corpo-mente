@@ -41,3 +41,8 @@
 
 - [x] Actualizar meta keywords com termos de intenção de compra
 - [x] Adicionar dados estruturados JSON-LD (Schema.org) para profissional de saúde
+
+## SEO — Meta Description Persuasiva
+
+- [x] Actualizar meta description com texto persuasivo orientado para cliques no Google
+- [x] Actualizar Open Graph description para partilha em redes sociais
