@@ -11,3 +11,12 @@
 - [x] Adicionar rotas no App.tsx (/success, /cancel)
 - [x] Actualizar CSS (index.css) com paleta bege/rosa/dourado/cinza
 - [x] Escrever testes vitest para checkout
+
+## Actualização Estratégica (Prompt 3)
+
+- [x] Adicionar segundo botão CTA "Agendar consulta gratuita" no Hero e nas secções de preço e CTA final
+- [x] Adicionar botão WhatsApp flutuante e secção de contacto (email + WhatsApp)
+- [x] Actualizar secção de preço com opção parcelamento até 5x
+- [x] Actualizar checkout Stripe para suportar parcelamento (payment_method_types com card + link)
+- [x] Refinar Hero com dois botões lado a lado
+- [x] Adicionar texto de apoio na secção de contacto

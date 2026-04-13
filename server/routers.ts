@@ -38,6 +38,13 @@ export const appRouter = router({
           payment_method_types: ["card"],
           mode: "payment",
           allow_promotion_codes: true,
+          payment_method_options: {
+            card: {
+              installments: {
+                enabled: true,
+              },
+            },
+          },
           line_items: [
             {
               price_data: {
