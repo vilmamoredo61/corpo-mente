@@ -761,6 +761,10 @@ function Footer() {
    EXPORT
 ══════════════════════════════════════════════════════════ */
 export default function Home() {
+  useEffect(() => {
+    document.title = "Nutricionista Clínica | Corpo & Mente";
+  }, []);
+
   return (
     <div style={{ fontFamily: "'Lato', sans-serif" }}>
       <style>{`

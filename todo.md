@@ -57,3 +57,9 @@
 
 - [x] Escurecer links da navbar (Áreas, Método, Programa, Investimento, Sobre, Contacto)
 - [x] Escurecer todos os textos com tom claro/desbotado na página inicial
+
+## Correcções SEO (2ª ronda)
+
+- [x] Reduzir meta keywords de 26 para 5-8 palavras-chave focadas
+- [x] Corrigir título para ter entre 30-60 caracteres
+- [x] Encurtar meta description para máximo 160 caracteres
