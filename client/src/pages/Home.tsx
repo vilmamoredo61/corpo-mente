@@ -579,12 +579,18 @@ function Sobre() {
           <div style={{ display: "grid", gridTemplateColumns: "1fr 1.8fr", gap: "4rem", alignItems: "center" }}>
             <div style={{ textAlign: "center" }}>
               <div style={{
-                width: 180, height: 180, borderRadius: "50%",
-                background: `linear-gradient(135deg, ${S.blush}, ${S.beige})`,
-                margin: "0 auto", border: `3px solid ${S.gold}`,
-                display: "flex", alignItems: "center", justifyContent: "center",
+                width: 220, height: 268,
+                margin: "0 auto",
+                border: `3px solid ${S.gold}`,
+                borderRadius: "12px",
+                overflow: "hidden",
+                boxShadow: "0 8px 32px rgba(201,168,76,0.18)",
               }}>
-                <span style={{ fontFamily: "'Playfair Display', serif", fontSize: "3rem", color: S.gold, fontStyle: "italic" }}>V</span>
+                <img
+                  src="https://d2xsxph8kpxj0f.cloudfront.net/310519663416366521/oCwLaTitfD3Xe63bsbB7L4/vilma-foto_09b6b495.png"
+                  alt="Vilma Moredo — Nutricionista Clínica"
+                  style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }}
+                />
               </div>
               <p style={{ fontFamily: "'Playfair Display', serif", fontSize: "1.1rem", color: S.dark, marginTop: "1.25rem" }}>Vilma Moredo</p>
               <p style={{ fontSize: "0.7rem", letterSpacing: "0.2em", textTransform: "uppercase", color: S.gold, marginTop: "0.25rem" }}>Nutricionista Clínica</p>

@@ -20,3 +20,8 @@
 - [x] Actualizar checkout Stripe para suportar parcelamento (payment_method_types com card + link)
 - [x] Refinar Hero com dois botões lado a lado
 - [x] Adicionar texto de apoio na secção de contacto
+
+## Foto Profissional (Secção Sobre)
+
+- [x] Extrair foto do DOCX e fazer upload para CDN
+- [x] Substituir placeholder circular pela foto real na secção Sobre
