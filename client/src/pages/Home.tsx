@@ -530,14 +530,11 @@ function Preco() {
           {/* Promo */}
           <Reveal delay={0.25}>
             <div style={{ background: S.dark, borderTop: `3px solid ${S.gold}`, padding: "3rem 2.5rem", textAlign: "center", position: "relative", height: "100%", display: "flex", flexDirection: "column", justifyContent: "space-between" }}>
-              <div style={{ position: "absolute", top: -14, left: "50%", transform: "translateX(-50%)", background: S.gold, color: S.white, fontSize: "0.62rem", letterSpacing: "0.25em", textTransform: "uppercase", padding: "0.35rem 1.25rem", whiteSpace: "nowrap" }}>
-                Vagas Limitadas
-              </div>
               <div>
                 <p style={{ fontSize: "0.7rem", letterSpacing: "0.3em", textTransform: "uppercase", color: S.goldLight, marginBottom: "1.5rem" }}>Condição Especial</p>
                 <p style={{ fontFamily: "'Playfair Display', serif", fontSize: "3.5rem", fontWeight: 700, color: S.white, lineHeight: 1 }}>480<span style={{ fontSize: "1.5rem" }}>€</span></p>
                 <p style={{ fontSize: "0.85rem", fontWeight: 300, color: S.goldLight, margin: "0.75rem 0 0.5rem" }}>8 a 10 semanas de acompanhamento individual</p>
-                <p style={{ fontSize: "0.78rem", color: S.blushMid, marginBottom: "2rem" }}>ou até 5x de 96€</p>
+                <p style={{ fontSize: "0.78rem", color: S.blushMid, marginBottom: "2rem" }}>Pagamento à vista</p>
               </div>
               <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
                 <CheckoutButton productKey="PROGRAMA_PROMO" label="Entrar no programa" full />

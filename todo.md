@@ -46,3 +46,9 @@
 
 - [x] Actualizar meta description com texto persuasivo orientado para cliques no Google
 - [x] Actualizar Open Graph description para partilha em redes sociais
+
+## Correcção Secção Investimento
+
+- [x] Cartão 480€: remover "Vagas Limitadas"
+- [x] Cartão 480€: remover parcelamento 5x (96€/mês)
+- [x] Cartão 480€: indicar pagamento à vista
