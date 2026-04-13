@@ -34,17 +34,22 @@ export const appRouter = router({
         const product = PRODUCTS[input.productKey as ProductKey];
         const user = ctx.user;
 
+        // Parcelamento apenas para o programa de 680€ (PROGRAMA_NORMAL)
+        const isInstallmentEligible = input.productKey === "PROGRAMA_NORMAL";
+
         const session = await stripe.checkout.sessions.create({
           payment_method_types: ["card"],
           mode: "payment",
           allow_promotion_codes: true,
-          payment_method_options: {
-            card: {
-              installments: {
-                enabled: true,
+          ...(isInstallmentEligible && {
+            payment_method_options: {
+              card: {
+                installments: {
+                  enabled: true,
+                },
               },
             },
-          },
+          }),
           line_items: [
             {
               price_data: {

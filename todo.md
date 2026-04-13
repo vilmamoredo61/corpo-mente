@@ -63,3 +63,8 @@
 - [x] Reduzir meta keywords de 26 para 5-8 palavras-chave focadas
 - [x] Corrigir título para ter entre 30-60 caracteres
 - [x] Encurtar meta description para máximo 160 caracteres
+
+## Checkout Stripe — Diferenciação de Planos
+
+- [x] Checkout 680€: activar parcelamento em 5x (136€/mês) no Stripe
+- [x] Checkout 480€: desactivar parcelamento, apenas pagamento à vista
